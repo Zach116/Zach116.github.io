@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
-a {
+#title {
   color: black;
+  font-size: 150%;
+}
+
+body {
+  background-image: url("assets/images/background.jpg");
 }
