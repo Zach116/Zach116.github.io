@@ -1,7 +1,5 @@
-<p id="main-content">Welcome to my website! This site gives some general information about me and details some of my previous projects and work experience.</p>
-
 ## About
-
+---
 <p id="main-content">Results-oriented Computer Science major currently attending Oregon State University with nearly 2 and a half
 years of work experience. Aiming to leverage a proven knowledge of project design, programming, and
 troubleshooting skills to successfully fill the Software Engineering role at your company. Frequently praised as
