@@ -4,10 +4,14 @@
 @import "{{ site.theme }}";
 
 #title {
-  color: black;
-  font-size: 130%;
+  color:black;
+  font-size:130%;
 }
 
 .label {
   color:grey;
+}
+
+#main-content {
+  color:black;
 }
