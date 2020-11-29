@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# About
 
-You can use the [editor on GitHub](https://github.com/Zach116/Zach116.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Results-oriented Computer Science major currently attending Oregon State University with nearly 2 and a half
+years of work experience. Aiming to leverage a proven knowledge of project design, programming, and
+troubleshooting skills to successfully fill the Software Engineering role at your company. Frequently praised as
+adaptable by my peers, I can be relied upon to help your company achieve its goals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Worked as part of the Information Technology Staff at OSU with a demonstrated history of interpersonal skills. Recently finished an internship at McAfee on the Advanced Threat Research team. Passionate student at Oregon State University who is currently pursuing a bachelors degree in Computer Science and minor in Business while looking for summer internship opportunities. Extremely interested in offensive security research. Trained in C++, C, Assembly Language, Python, GDB, IDA, Java, and Javascript.
 
 ### Markdown
 
