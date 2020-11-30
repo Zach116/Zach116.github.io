@@ -9,11 +9,22 @@ Worked as part of the Information Technology Staff at OSU with a demonstrated hi
 
 ## Work Experience
 ---
-### Oregon State University IT
-<p id="main-content">Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for</p>
-
 ### McAfee ATR Internship
-<p id="main-content">Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for</p>
+<p id="main-content">
+- Worked on the Advanced Threat Research team
+- Designed and built a fuzzer from scratch for the team to use internally
+- Learned basic security principles and techniques for finding and exploiting vulnerabilities
+- Assisted in building and reviewing CTF challenges
+</p>
+
+### Oregon State University IT
+<p id="main-content">
+- Communicated with manager to set up campus computers used on campus
+- Assisted in the setup of computers and the installation of needed software for new research students
+- Assessed and troubleshooted computer problems brought by students, faculty, and staff
+- Managed and upheld the internal campus networks
+- Maintained upkeep of computer labs and printers across campus</p>
+
 
 ## Projects
 ---
