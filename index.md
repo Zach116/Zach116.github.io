@@ -11,19 +11,24 @@ Worked as part of the Information Technology Staff at OSU with a demonstrated hi
 ---
 ### McAfee ATR Internship
 <p id="main-content">
-- Worked on the Advanced Threat Research team
-- Designed and built a fuzzer from scratch for the team to use internally
-- Learned basic security principles and techniques for finding and exploiting vulnerabilities
-- Assisted in building and reviewing CTF challenges
+  <ul>
+    <li>Worked on the Advanced Threat Research team</li>
+    <li>Designed and built a fuzzer from scratch for the team to use internally</li>
+    <li>Learned basic security principles and techniques for finding and exploiting vulnerabilities</li>
+    <li>Assisted in building and reviewing CTF challenges</li>
+  </ul>
 </p>
 
 ### Oregon State University IT
 <p id="main-content">
-- Communicated with manager to set up campus computers used on campus
-- Assisted in the setup of computers and the installation of needed software for new research students
-- Assessed and troubleshooted computer problems brought by students, faculty, and staff
-- Managed and upheld the internal campus networks
-- Maintained upkeep of computer labs and printers across campus</p>
+  <ul>
+    <li>Communicated with manager to set up campus computers used on campus</li>
+    <li>Assisted in the setup of computers and the installation of needed software for new research students</li>
+    <li>Assessed and troubleshooted computer problems brought by students, faculty, and staff</li>
+    <li>Managed and upheld the internal campus networks</li>
+    <li>Maintained upkeep of computer labs and printers across campus</li>
+  </ul>
+</p>
 
 
 ## Projects
