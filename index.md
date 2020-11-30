@@ -21,7 +21,7 @@ Worked as part of the Information Technology Staff at OSU with a demonstrated hi
 
 ### Oregon State University IT
 <p id="main-content">
-  <ul>
+  <ul id="main-content">
     <li>Communicated with manager to set up campus computers used on campus</li>
     <li>Assisted in the setup of computers and the installation of needed software for new research students</li>
     <li>Assessed and troubleshooted computer problems brought by students, faculty, and staff</li>
