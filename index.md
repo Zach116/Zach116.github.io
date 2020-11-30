@@ -1,11 +1,10 @@
 ## About
 ---
-<p id="main-content">Results-oriented Computer Science major currently attending Oregon State University with nearly 2 and a half
-years of work experience. Aiming to leverage a proven knowledge of project design, programming, and
-troubleshooting skills to successfully fill the Software Engineering role at your company. Frequently praised as
-adaptable by my peers, I can be relied upon to help your company achieve its goals.
-
-Worked as part of the Information Technology Staff at OSU with a demonstrated history of interpersonal skills. Recently finished an internship at McAfee on the Advanced Threat Research team. Passionate student at Oregon State University who is currently pursuing a bachelors degree in Computer Science and minor in Business while looking for summer internship opportunities. Extremely interested in offensive security research. Trained in C++, C, Assembly Language, Python, GDB, IDA, Java, and Javascript.</p>
+<p id="main-content">
+I am a results-oriented Computer Science major who is currently attending Oregon State University with nearly 2 and a half
+years of work experience. I'm aiming to leverage a proven knowledge of project design, programming, and
+troubleshooting skills to pursue a career in Offensive Security. I've been frequently praised as
+adaptable by my peers and I have a demonstrated history of interpersonal skills through my work in the IT department at Oregon State. Languages and tools I have learned include the following: C++, C, Assembly Language, Python, GDB, IDA, Java, and Javascript.</p>
 
 ## Work Experience
 ---
