@@ -34,4 +34,12 @@ Worked as part of the Information Technology Staff at OSU with a demonstrated hi
 ## Projects
 ---
 ### AR Sandbox
-<p id="main-content">I am currently working on a project to integrate new features into an AR sandbox for the CCE department at Oregon State University. This is my Senior project where I am working in a group of 4. The sandbox is already built and has some basic projection capabilities. Our team's goal is to add the ability to import terrains and display how the user must alter the sand to recreate the loaded terrain. Also, the user needs to have the ability to save the current terrain of the sandbox. The final goal of this project is to use real world game pieces to represent different objects. These game pieces will have some kind of user defined effect when placed upon the sandbox. A simple example is placing two wooden blocks and calculating the distance between them.</p>
+<p id="main-content">
+  <ul>
+    <li>Currently working on a project to integrate new features into an AR sandbox for the CCE department at Oregon State University</li>
+    <li>This is my Senior project where I am working in a group of 4</li>
+    <li>The sandbox is currently built and has some basic projection capabilities</li>
+    <li>Our team's initial goal is to add the ability to import terrains and display how the user must alter the sand to recreate the loaded terrain. Also, the user needs to have the ability to save the current terrain of the sandbox</li>
+    <li>The final goal of this project is to use real world game pieces to represent different objects. These game pieces will have some kind of user defined effect when placed upon the sandbox. A simple example is placing two wooden blocks and calculating the distance between them</li>
+  </ul>
+</p>
