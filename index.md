@@ -34,5 +34,5 @@ adaptable by my peers and I have a demonstrated history of interpersonal skills 
   <li>Captures the terrain of the sandbox and projects a heightmap upon it.</li>
   <li>Added the ability to save terrain as a heightmap and later load it again.</li>
   <li>The loading feature works by showing how the sand needs to be altered to create the desired terrain. It does this through coloring (red is too high, blue is too low).</li>
-  <li>The final goal of this project is to use real world game pieces to represent different objects. These game pieces will have some kind of user defined effect when placed upon the sandbox. A simple example is placing two wooden blocks and calculating the distance between them. This can be used to simulate different real world scenarios for education purposes</li>
+  <li>The final goal of this project is to use real world game pieces to represent different objects. These game pieces will have some kind of user defined effect when placed upon the sandbox. A simple example is placing two wooden blocks and calculating the distance between them. This can be used to simulate different real world scenarios for educational purposes.</li>
 </ul>
