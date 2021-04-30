@@ -27,11 +27,12 @@ adaptable by my peers and I have a demonstrated history of interpersonal skills 
 
 ## Projects
 ---
-### AR Sandbox
+### Augmented Reality Sandbox
 <ul id="main-content">
-  <li>Currently working on a project to integrate new features into an AR sandbox for the CCE department at Oregon State University.</li>
-  <li>This is my Senior project where I am working in a group of 4.</li>
-  <li>The sandbox is currently built and has some basic projection capabilities.</li>
-  <li>Our team's initial goal is to add the ability to import terrains and display how the user must alter the sand to recreate the loaded terrain. Also, the user needs to have the ability to save the current terrain of the sandbox.</li>
-  <li>The final goal of this project is to use real world game pieces to represent different objects. These game pieces will have some kind of user defined effect when placed upon the sandbox. A simple example is placing two wooden blocks and calculating the distance between them.</li>
+  <li>Implemented new features into an augmented reality sandbox for my senior project.</li>
+  <li>The system is intended to help teach students of the Civil & Construction Engineering department at Oregon State University.</li>
+  <li>Captures the terrain of the sandox and projects a heightmap upon it.</li>
+  <li>Added the ability to save terrain as a heightmap and later load it again.</li>
+  <li>The loading feature works by showing how the sand needs to be altered to create the desired terrain. It does this through coloring (red is too high, blue is too low).</li>
+  <li>The final goal of this project is to use real world game pieces to represent different objects. These game pieces will have some kind of user defined effect when placed upon the sandbox. A simple example is placing two wooden blocks and calculating the distance between them. This can be used to simulate different real world scenarios for education purposes</li>
 </ul>
