@@ -1,13 +1,20 @@
 ## About
 ---
 <p id="main-content">
-I am a results-oriented Computer Science major who is currently attending Oregon State University with nearly 2 and a half
-years of work experience. I'm aiming to leverage a proven knowledge of project design, programming, and
-troubleshooting skills to pursue a career in Offensive Security. I've been frequently praised as
+I am a results-oriented Computer Science major who has recently graduated Oregon State University with nearly 3 years of work experience. I'm aiming to leverage a proven knowledge of project design, programming, and
+troubleshooting skills to pursue a career in Offensive Cyber Security. I've been frequently praised as
 adaptable by my peers and I have a demonstrated history of interpersonal skills through my work in the IT department at Oregon State. Languages and tools I have learned include the following: C++, C, Assembly Language, Python, GDB, IDA, Java, and Javascript.</p>
 
 ## Work Experience
 ---
+### Garmin MPM Internship
+<ul id="main-content">
+  <li>Joined the Avionic Navigation Software Library team, specifically the mapping subteam.</li>
+  <li>Worked on various Jira tickets to add features and resolve bugs.</li>
+  <li>Learned how to write and test requirements as well as resolve merge conflicts through git.</li>
+  <li>Spent some time working with a security engineer to port and implement new encryption algorithms.</li>
+</ul>
+
 ### McAfee ATR Internship
 <ul id="main-content">
   <li>Worked on the Advanced Threat Research team.</li>
