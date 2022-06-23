@@ -2,7 +2,7 @@
 ---
 <p id="main-content">
 I am a results-oriented Computer Science major who has recently graduated Oregon State University with nearly 3 years of work experience. I'm aiming to leverage a proven knowledge of project design, programming, and
-troubleshooting skills to pursue a career in Offensive Cyber Security. I've been frequently praised as
+troubleshooting skills to pursue a career in Cyber Security, Software Development, or IT. I've been frequently praised as
 adaptable by my peers and I have a demonstrated history of interpersonal skills through my work in the IT department at Oregon State. Languages and tools I have learned include the following: C++, C, Assembly Language, Python, GDB, IDA, Java, and Javascript.</p>
 
 ## Work Experience
