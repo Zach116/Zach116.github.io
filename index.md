@@ -50,6 +50,6 @@ adaptable by my peers and I have a demonstrated history of interpersonal skills 
   <li>Developed an AWS EC2 server to host a Flask python web server.</li>
   <li>Utilized Nginx as a reverse proxy and uWSGI as a WSGI application server.</li>
   <li>Created Docker containers for Flask/uWSGI and Nginx, enabling seamless communication between them using Docker Compose.</li>
-  <li>Planning on setting up a CI/CD process using GitHub Actions or another viable solution</li>
+  <li>Planning on setting up a CI/CD process using GitHub Actions or another viable solution.</li>
 
 </ul>
