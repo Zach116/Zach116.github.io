@@ -1,7 +1,7 @@
 ## About
 ---
 <p id="main-content">
-I am an IT Consultant with OSU with over 4 years of work experience. I'm aiming to leverage my current knowledge with IT tools as well as my proven ability to learn quickly to pursue a career in DevOps. I've been frequently praised as
+I am an IT Consultant with OSU with over 4 years of work experience. I'm aiming to leverage my current knowledge of IT tools, as well as my proven ability to learn quickly, to pursue a career in software. I've been frequently praised as
 adaptable by my peers and I have a demonstrated history of interpersonal skills through my work in the IT department at Oregon State. Languages and tools I have learned include the following: Python, C/C++, Docker, AWS, Nginx, uWSGI, Java, Javascript, GDB, IDA, and Assembly Language.</p>
 
 ## Work Experience
